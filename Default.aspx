@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is sample application default
+            This is sample application defaults
         </div>
     </form>
 </body>
